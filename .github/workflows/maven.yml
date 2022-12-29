@@ -1,6 +1,6 @@
 # This workflow automatically tests new commits and pull requests as they come in.
 # Note that this does not upload any artifacts, you will need to compile mcMMO manually
-# if you wish to create the actual jar.OK fuckyou.
+# if you wish to create the actual jar.OK fuckyou.02200
 name: Compile and test
 
 on:
